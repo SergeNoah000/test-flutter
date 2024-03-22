@@ -1,16 +1,15 @@
-# test_drive
+# test-flutter
 
-A new Flutter project.
+Ceci est le projet hello world de test que je fais avec flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Remerciement
 
-A few resources to get you started if this is your first Flutter project:
+Merci à tous, j'espere qu'au bout de mes efforts je vais maitriser le framework flutter et 
+pouvoir developper des application android et ios.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Après mains essais ed builds, pendant trois jours où la connexion MTN/Orange et Camtel derangeaient au pays voici enfin que j'ai pu afficher et executer l'application dans un emulateur
+
+![screenschot](./Screenshot.png)
